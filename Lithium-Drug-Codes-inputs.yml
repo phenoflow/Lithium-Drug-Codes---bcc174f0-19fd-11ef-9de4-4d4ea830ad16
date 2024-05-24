@@ -1,0 +1,42 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-omop.js
+inputModule2:
+  class: File
+  path: python/lithium-drug-codes-400mg---primary.py
+inputModule3:
+  class: File
+  path: python/lithium-drug-codes-564mg---primary.py
+inputModule4:
+  class: File
+  path: python/lithium-drug-codes-norgine---primary.py
+inputModule5:
+  class: File
+  path: python/lithium-drug-codes-200mg---primary.py
+inputModule6:
+  class: File
+  path: python/lithium-drug-codes-liliquid---primary.py
+inputModule7:
+  class: File
+  path: python/lithium-drug-codes-300mg---primary.py
+inputModule8:
+  class: File
+  path: python/lithium-drug-codes-sanofi---primary.py
+inputModule9:
+  class: File
+  path: python/lithium-drug-codes-rosemont---primary.py
+inputModule10:
+  class: File
+  path: python/lithium-drug-codes-450mg---primary.py
+inputModule11:
+  class: File
+  path: python/lithium-drug-codes---primary.py
+inputModule12:
+  class: File
+  path: python/lithium-drug-codes-1018g---primary.py
+inputModule13:
+  class: File
+  path: python/lithium-drug-codes-carbonate---primary.py
+inputModule14:
+  class: File
+  path: python/output-cases.py
